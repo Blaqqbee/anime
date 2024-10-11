@@ -1,0 +1,248 @@
+
+    /* width: 33.33%; */
+/* height: 100vw; */
+/* background-color: black; */
+
+/* *{
+    box-sizing: border-box;
+    padding: 0;
+    height: 0;
+    background-color: black;
+} */
+#main-menu{
+    background-color: black;
+    border: 0;
+    position: fixed;
+    color: white;
+    justify-content: center;
+    display: flex;
+    flex-flow: wrap column;
+    height: 100%;
+    width: 33.33%;
+    margin: 0;
+    font-size: small;
+    align-content: center;
+    }
+    .blue{
+        background-color: blue;
+        width: 80px;
+        height: 40px;
+        font-size: large;
+        color: white;
+        border-radius: 20px;
+        align-content: center;
+        padding-left: 30px;
+        
+    
+    }
+    .para{
+    
+        margin: 100%;
+        text-align: center;
+        font-size: x-small;
+    }
+     /* p{
+    margin-top: 45px;
+    border: 50px;
+    padding: 1px;
+    } */
+    #news-feed{
+    background-color: black;
+    border: 3px solid white;
+    display: flex;
+    height: 300vh;
+    width: 30%;
+    position: absolute;
+    left: 33.33%;
+    border-bottom: 0;
+    border-top: 0;
+    flex-flow: column;
+    
+    }
+    /* #trending-bar{
+    background-color: black;
+    border: 3px;
+    position: fixed;
+    left: 100%;
+    } */
+    .main{
+        border: 2px solid white ;
+        width: 100%;
+        /* margin: 50px; */
+        /* padding: 50px; */
+        font-size: 14px;
+        display: flex;
+        flex-flow: row;
+        border-top: 0;
+        color: white;
+        justify-content: center;
+        
+    
+    }
+    .menu-header{
+        border: 6px;
+        padding: 5px;
+        margin-top: 20px;
+    text-shadow: 3em;
+        color: white;
+        
+    }
+    #show{
+        
+        text-align: center;
+        color: blue;
+        font-size: larger;
+        /* border: 1px solid white; */
+        padding: 3px;
+        justify-content: center;
+        
+    }
+    .showw{
+        margin: 0;
+        /* border: 3px; */
+        padding: 0;
+    }
+    .post{
+        border: 2px solid white;
+    }
+    #trending-bar{
+        background-color: black;
+        display: flex;
+        flex-flow: column;
+        border: 10px;
+        width: 36%;
+        position: fixed;
+        left: 70%
+     
+    /* width: 33.33%; */
+/* height: 100vw; */
+/* background-color: black; */
+
+/* *{
+    box-sizing: border-box;
+    padding: 0;
+    height: 0;
+    background-color: black;
+} */
+#main-menu{
+    background-color: black;
+    border: 0;
+    position: fixed;
+    color: white;
+    justify-content: center;
+    display: flex;
+    flex-flow: wrap column;
+    height: 100%;
+    width: 33.33%;
+    margin: 0;
+    font-size: small;
+    align-content: center;
+    }
+    .blue{
+        background-color: blue;
+        width: 80px;
+        height: 40px;
+        font-size: large;
+        color: white;
+        border-radius: 20px;
+        align-content: center;
+        padding-left: 30px;
+        
+    
+    }
+    .para{
+    
+        margin: 100%;
+        text-align: center;
+        font-size: x-small;
+    }
+     /* p{
+    margin-top: 45px;
+    border: 50px;
+    padding: 1px;
+    } */
+    #news-feed{
+    background-color: black;
+    border: 3px solid white;
+    display: flex;
+    height: 300vh;
+    width: 30%;
+    position: absolute;
+    left: 33.33%;
+    border-bottom: 0;
+    border-top: 0;
+    flex-flow: column;
+    
+    }
+    /* #trending-bar{
+    background-color: black;
+    border: 3px;
+    position: fixed;
+    left: 100%;
+    } */
+    .main{
+        border: 2px solid white ;
+        width: 100%;
+        /* margin: 50px; */
+        /* padding: 50px; */
+        font-size: 14px;
+        display: flex;
+        flex-flow: row;
+        border-top: 0;
+        color: white;
+        justify-content: center;
+        
+    
+    }
+    .menu-header{
+        border: 6px;
+        padding: 5px;
+        margin-top: 20px;
+    text-shadow: 3em;
+        color: white;
+        
+    }
+    #show{
+        
+        text-align: center;
+        color: blue;
+        font-size: larger;
+        /* border: 1px solid white; */
+        padding: 3px;
+        justify-content: center;
+        
+    }
+    .showw{
+        margin: 0;
+        /* border: 3px; */
+        padding: 0;
+    }
+    .post{
+        border: 2px solid white;
+    }
+    #trending-bar{
+        background-color: black;
+        display: flex;
+        flex-flow: column;
+        border: 10px;
+        width: 36%;
+        position: fixed;
+        left: 70%;
+        height: 5%;
+     
+    }
+    .subscribe{
+        border: 1px solid white;
+        width: 50%;
+        height: 5%;
+        margin: 10px;
+        border-radius: 50px;
+    }
+    }
+    .subscribe{
+        border: 1px solid white;
+        width: 50%;
+        height: 5%;
+        margin: 10px;
+        border-radius: 50px;
+    }
